@@ -1,9 +1,3 @@
-
-# coding: utf-8
-
-# In[1]:
-
-
 import numpy as np
 import math
 np.random.seed(0)
@@ -78,7 +72,7 @@ for i in range(MAX_ITERATIONS):
         Rewards[j],_ = Neural_Network(mutated_w1,mutated_w2,
                                       mutated_b1,mutated_b2,
                                       XOR_inputs,XOR_outputs) 
-    very_small_number = 0e-20
+    very_small_number = 1e-20
     #Standardize rewards
     fitness_scores = (Rewards - np.mean(Rewards))/max(np.std(Rewards),very_small_number)
     
@@ -90,4 +84,3 @@ for i in range(MAX_ITERATIONS):
     
    
     
-
