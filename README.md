@@ -2,7 +2,7 @@
 
 A very simple 2 layered fully connected neural network is implemented here and trained on XOR gate data ( 2D binary input and 1D binary output having XOR relationship). 
 
-Instead of commonly used backpropagation its trained using evolutionary strategies. This is more of a 'hello world' kind of program, but for the application of evolutionary strategy on a neural network 
+Instead of commonly used backpropagation its trained using evolutionary strategies. This is more of a 'hello world' kind of program, but for the application of evolutionary algorithms on a neural network 
 
 More about Evolutionary algorithms: https://blog.openai.com/evolution-strategies/
 
