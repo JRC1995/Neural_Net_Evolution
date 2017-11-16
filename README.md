@@ -5,8 +5,6 @@ Instead of commonly used backpropagation, evolutionary strategies are used for t
 
 More about Evolutionary algorithms: https://blog.openai.com/evolution-strategies/
 
-The code uploaded here was modified on top of: https://gist.github.com/karpathy/77fbb6a8dac5395f1b73e7a89300318d
-
 ## Tested on:
 
 * Python 2.7.1
