@@ -7,6 +7,8 @@ More about Evolutionary algorithms: https://blog.openai.com/evolution-strategies
 
 Code used for reference: https://gist.github.com/karpathy/77fbb6a8dac5395f1b73e7a89300318d
 
+Some interesting content: https://blog.openai.com/nonlinear-computation-in-linear-networks/
+
 ## Tested on:
 
 * Python 2.7.1
